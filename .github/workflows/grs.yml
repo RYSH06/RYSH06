@@ -11,6 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate top-langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=RYSH06&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.MY_PAT }}
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:

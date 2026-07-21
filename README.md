@@ -32,6 +32,7 @@
 ###
 
 <div align="left">
+  <a href="https://yeom.codes"><img src="https://img.shields.io/static/v1?message=yeom.codes&logo=googlechrome&label=Portfolio&color=7fd6c2&logoColor=white&labelColor=161b26&style=for-the-badge" height="35" alt="portfolio logo" /></a>
   <a href="https://www.instagram.com/raphy.17/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://discordapp.com/users/rysh06"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:rapheal.yeom@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
@@ -43,5 +44,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RYSH06/RYSH06/output/snake.svg" alt="Snake animation" />
-
-###

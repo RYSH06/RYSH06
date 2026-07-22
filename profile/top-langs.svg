@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="267.52"
+          width="267.33"
           height="8"
           fill="#DA5B0B"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="267.52"
+          x="267.33"
           y="0"
           width="11.06"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="268.58"
+          x="268.39"
           y="0"
           width="10.75"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.33"
+          x="269.14"
           y="0"
           width="10.64"
           height="8"
@@ -168,11 +168,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.96999999999997"
+          x="269.78"
           y="0"
-          width="10.04"
+          width="10.23"
           height="8"
-          fill="#f1e05a"
+          fill="#e34c26"
         />
       
       
@@ -181,7 +181,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 99.08%
+        Jupyter Notebook 99.01%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -207,9 +207,9 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 0.02%
+        HTML 0.09%
       </text>
     </g>
   </g></g>
